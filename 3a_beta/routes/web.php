@@ -14,3 +14,7 @@ Route::get('/', function () {
 Route::get('/prodotto', function () {
     return view('prodotto');
 });
+
+Route::get('/sport', function () {
+    return view('sport');
+});
