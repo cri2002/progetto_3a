@@ -13,8 +13,8 @@
     <title>@yield('title')</title>
 </head>
 
-<body>
-    <div class="container mx-auto bg-[#191919] max-w-16 md:max-w-32 lg:max-w-48 h-screen font-family:Roboto">
+<body class="bg-[#191919]">
+    <div class="container mx-auto max-w-16 md:max-w-32 lg:max-w-48 h-screen font-family:Roboto">
         @yield('content')
     </div>
 </body>
