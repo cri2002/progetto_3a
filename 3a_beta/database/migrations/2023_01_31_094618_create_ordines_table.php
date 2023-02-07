@@ -4,7 +4,8 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-return new class extends Migration{
+return new class extends Migration
+{
     /**
      * Run the migrations.
      *
@@ -12,11 +13,10 @@ return new class extends Migration{
      */
     public function up()
     {
-        Schema::create('payment', function (Blueprint $table) {
-            $table->integer('transaction_id')->primary();
-            $table->boolean('status');
-            $table->time('payment_date');
-            $table->float('payment_amount');
+        Schema::create('ordines', function (Blueprint $table) {
+            $table->id();
+            $table->string("data_ordine");
+            $table->timestamps();
         });
     }
 
@@ -27,6 +27,6 @@ return new class extends Migration{
      */
     public function down()
     {
-        Schema::dropIfExists('payment');
+        Schema::dropIfExists('ordines');
     }
 };

@@ -4,7 +4,8 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-return new class extends Migration{
+return new class extends Migration
+{
     /**
      * Run the migrations.
      *
@@ -12,10 +13,9 @@ return new class extends Migration{
      */
     public function up()
     {
-        Schema::create('user_credentials', function (Blueprint $table) {
-            $table->bigInteger('cutomer_id')->primary();
-            $table->string('email_id');
-            $table->integer('link_id');
+        Schema::create('magazzinos', function (Blueprint $table) {
+            $table->id();
+            $table->timestamps();
         });
     }
 
@@ -26,6 +26,6 @@ return new class extends Migration{
      */
     public function down()
     {
-        Schema::dropIfExists('user_credentials');
+        Schema::dropIfExists('magazzinos');
     }
 };
