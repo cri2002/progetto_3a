@@ -47,7 +47,7 @@
     </div>
 
     <div class="flex ml-4">
-        <div class="w-3/4 h-1/4 bg-[#252525] rounded">
+        <div class="w-3/4 h-1/4 bg-[#252525] rounded-2xl">
             <div class="flex justify-center">
                 <h1 class="text-xl font-bold text-[#CBEB09] py-4 tracking-wide font-['Roboto']">AGGIUNGI AL CARRELLO</h1>
             </div>
