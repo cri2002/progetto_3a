@@ -46,9 +46,12 @@
                 <div class="w-32 h-48 max-w-xs overflow-hidden bg-[#252525]">
                     <div class="w-full h-32 bg-white">
                     </div>
-                    <div class="w-full h-16 font-['Nunito'] text-white mx-1 my-1">
-                        <h1 class="text-xs font-bold truncate">Nike Air Max 270 React</h1>
-                        <h1 class="text-xs text-[#CBEB09]">€ 120,00</h1>
+                    <div class="w-full h-16 font-['Nunito'] text-white m-1">
+                        <h1 class="text-xs font-bold truncate h-10">Nike Air Max 270 React</h1>
+                        <div class="h-6 mb-1">
+                            <span class="text-xs text-[#CBEB09]">€ 120,00</span>
+                            <span class="text-xs text-[#CBEB09]">✡</span>
+                        </div>
                     </div>
                 </div>
             </div>
