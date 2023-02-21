@@ -10,11 +10,12 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
     <title>@yield('title')</title>
 </head>
 
 <body class="bg-[#191919]">
-    <div class="container mx-auto max-w-16 md:max-w-32 lg:max-w-48 h-screen font-family:Roboto">
+    <div class="container mx-auto  md:max-w-32 lg:max-w-48 h-screen font-family:Roboto">
         @yield('content')
     </div>
 </body>
