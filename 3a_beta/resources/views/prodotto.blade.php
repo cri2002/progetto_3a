@@ -6,7 +6,7 @@
 @section('content')
     <div class="w-full h-3/4 bg-white">
         <div class="flex justify-center">
-            <div class="w-3/4 h-3/4">
+            <div class="w-full h-3/4 bg-black"> eee
             </div>
         </div>
     </div>
