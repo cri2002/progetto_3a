@@ -16,6 +16,12 @@ return new class extends Migration
         Schema::create('ordines', function (Blueprint $table) {
             $table->id();
             $table->string("data_ordine");
+            $table->integer("id_utente");
+            $table->string("id_pagamento");
+            $table->string("risposta_coriere");
+            $table->string("id_ordine");
+            $table->string("id_coriere");
+            $table->string("id_carrello");
             $table->timestamps();
         });
     }

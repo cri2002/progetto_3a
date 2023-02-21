@@ -15,7 +15,7 @@ return new class extends Migration
     {
         Schema::create('pagamentos', function (Blueprint $table) {
             $table->id();
-            $table->string("nome_compagnia");
+            $table->string("nome_ente");
             $table->timestamps();
         });
     }
