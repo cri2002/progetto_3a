@@ -8,20 +8,25 @@
     <div class="w-full h-3/4 bg-white">
     </div>
 
-    <div class="ml-4">
-        <div class="flex">
+
+        <div class="flex ml-4">
             <h1 class="text-2xl font-bold text-white pt-4 tracking-wide font-['Nunito']">Nike Air Max 270 React</h1>
         </div>
-        <div class="flex">
+        <div class="flex ml-6 mt-2 mb-2 justify-between">
             <h1 class="text-xl font-bold text-white pt-4 tracking-wide font-['Nunito']">€ 120,00</h1>
+            <select class=" px-2 py-1 bg-transparent border-2 border-white rounded-md text-[#CBEB09] text-xl font-bold font-['Nunito'] mr-12 mt-2" name="taglie" id="">
+                <option class="bg-[#191919]" value="volvo">XS</option>
+                <option class="bg-[#191919]" value="saab">S</option>
+                <option class="bg-[#191919]" value="opel">M</option>
+                <option class="bg-[#191919]" value="audi">L</option>
+            </select>
         </div>
-    </div>
         <br>
         <div class="flex ml-4">
             <div class="w-60 h-10 bg-[#252525] rounded-xl text-center">
                 <h1 class="text-lg font-bold text-[#CBEB09] tracking-wide font-['Roboto'] leading-10">AGGIUNGI AL CARRELLO</h1>
             </div>
-            <div class="h-10"><i class="bi bi-star text-white leading-10 ml-8 text-3xl"></i></div>
+            <div class="h-10"><i class="bi bi-star text-[#CBEB09] leading-10 ml-8 text-3xl"></i></div>
         </div>
         <br>
 
