@@ -18,3 +18,7 @@ Route::get('/prodotto', function () {
 Route::get('/sport', function () {
     return view('sport');
 });
+
+Route::get('/signin', function () {
+    return view('signin');
+});
