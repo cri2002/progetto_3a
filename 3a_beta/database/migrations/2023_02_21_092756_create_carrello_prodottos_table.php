@@ -13,10 +13,8 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('prodottos', function (Blueprint $table) {
+        Schema::create('carrello_prodottos', function (Blueprint $table) {
             $table->id();
-            $table->string("id_magazzino");
-            $table->boolean("profotto_3a");
             $table->timestamps();
         });
     }
@@ -28,6 +26,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('prodottos');
+        Schema::dropIfExists('carrello_prodottos');
     }
 };
