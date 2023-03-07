@@ -4,7 +4,7 @@
 @endsection
 
 @section('content')
-    <div class="flex h-10 w-full bg-[#252525] justify-between"><i class="bi bi-arrow-left text-white text-3xl ml-2"></i><i class="bi bi-cart mr-3 text-white text-3xl"></i></div>
+    <div onclick='window.location="/"' class="flex h-10 w-full bg-[#252525] justify-between"><i class="bi bi-arrow-left text-white text-3xl ml-2"></i><i class="bi bi-cart mr-3 text-white text-3xl"></i></div>
     <div class="w-full h-3/4 bg-white">
     </div>
 
