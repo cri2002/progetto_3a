@@ -6,7 +6,7 @@
 
 @section('content')
 
-    <div class="bg-[#191919]  bg-[url({{asset('/Asset/img/impronta.svg')}})] w-100  -z-20 bg-no-repeat">
+    <div class="bg-[#191919]  bg-[url({{asset('/Asset/img/impronta.svg')}})] w-100  -z-20 bg-no-repeat hide-scroll-bar">
         
         <div class="flex flex-wrap justify-center">
             <div class="w-100 my-5">
@@ -55,7 +55,6 @@
             
             <img src="{{asset('/Asset/img/apple.png')}}" class="h-10 mt-2">
 
-        
         </div>
         
 
