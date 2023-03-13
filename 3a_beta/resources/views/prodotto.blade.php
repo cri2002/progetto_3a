@@ -4,10 +4,9 @@
 @endsection
 
 @section('content')
-    <div class="flex h-10 w-full bg-[#191919] justify-between"><i class="bi bi-arrow-left text-white text-3xl ml-2"></i><i class="bi bi-cart mr-3 text-white text-3xl"></i></div>
+    <div onclick='window.location="/"' class="flex h-10 w-full bg-[#252525] justify-between"><i class="bi bi-arrow-left text-white text-3xl ml-2"></i><i class="bi bi-cart mr-3 text-white text-3xl"></i></div>
     <div class="w-full h-3/4 bg-white">
     </div>
-
 
         <div class="flex ml-4">
             <h1 class="text-2xl font-bold text-white pt-4 tracking-wide font-['Nunito']">Nike Air Max 270 React</h1>
@@ -38,27 +37,35 @@
     <div class="flex overflow-x-scroll pb-4 mb-4 hide-scroll-bar">
         <div class="flex flex-nowrap ml-4">
             <div class="inline-block mr-2">
-                <div class="w-32 h-40 overflow-hidden bg-[#252525]">
+                <div class="w-32 h-48 overflow-hidden bg-[#252525]">
                     <div class="w-full h-32 bg-white">
                     </div>
-                    <div class="w-full h-5 font-['Nunito'] text-white">
-                        <h1 class="text-xs font-bold truncate h-4">Nike Air Max 270 React</h1>
-                        <div class="h-4">
-                            <span class="text-xs text-[#CBEB09]">€ 120,00</span>
-                            <span class="text-xs text-[#CBEB09]">✡</span>
-                        </div>
+                    <div class="w-full h-16 font-['Nunito'] text-white">
+                        <h1 class="text-xs font-bold truncate">Nike Air Max 270 React</h1>
+                        <span class="text-xs text-[#CBEB09]">€ 120,00</span>
+                        <span class="text-xs text-[#CBEB09]">✡</span>
                     </div>
                 </div>
             </div>
             <div class="inline-block mr-2">
-                <div class="w-32 h-40 max-w-xs overflow-hidden bg-[#252525]">
-                    <div class="w-full h-full bg-white">
+                <div class="w-32 h-48 overflow-hidden bg-[#252525]">
+                    <div class="w-full h-32 bg-white">
+                    </div>
+                    <div class="w-full h-16 font-['Nunito'] text-white">
+                        <h1 class="text-xs font-bold truncate">Nike Air Max 270 React</h1>
+                        <span class="text-xs text-[#CBEB09]">€ 120,00</span>
+                        <span class="text-xs text-[#CBEB09]">✡</span>
                     </div>
                 </div>
             </div>
             <div class="inline-block mr-2">
-                <div class="w-32 h-40 max-w-xs overflow-hidden bg-[#252525]">
-                    <div class="w-full h-full bg-white">
+                <div class="w-32 h-48 overflow-hidden bg-[#252525]">
+                    <div class="w-full h-32 bg-white">
+                    </div>
+                    <div class="w-full h-16 font-['Nunito'] text-white">
+                        <h1 class="text-xs font-bold truncate">Nike Air Max 270 React</h1>
+                        <span class="text-xs text-[#CBEB09]">€ 120,00</span>
+                        <span class="text-xs text-[#CBEB09]">✡</span>
                     </div>
                 </div>
             </div>
@@ -88,20 +95,35 @@
         <div class="flex overflow-x-scroll pb-4 mb-4 hide-scroll-bar">
             <div class="flex flex-nowrap">
                 <div class="inline-block mr-2">
-                    <div class="w-32 h-40 max-w-xs overflow-hidden bg-[#252525]">
-                        <div class="w-full h-full bg-white">
+                    <div class="w-32 h-48 overflow-hidden bg-[#252525]">
+                        <div class="w-full h-32 bg-white">
+                        </div>
+                        <div class="w-full h-16 font-['Nunito'] text-white">
+                            <h1 class="text-xs font-bold truncate">Nike Air Max 270 React</h1>
+                            <span class="text-xs text-[#CBEB09]">€ 120,00</span>
+                            <span class="text-xs text-[#CBEB09]">✡</span>
                         </div>
                     </div>
                 </div>
                 <div class="inline-block mr-2">
-                    <div class="w-32 h-40 max-w-xs overflow-hidden bg-[#252525]">
-                        <div class="w-full h-full bg-white">
+                    <div class="w-32 h-48 overflow-hidden bg-[#252525]">
+                        <div class="w-full h-32 bg-white">
+                        </div>
+                        <div class="w-full h-16 font-['Nunito'] text-white">
+                            <h1 class="text-xs font-bold truncate">Nike Air Max 270 React</h1>
+                            <span class="text-xs text-[#CBEB09]">€ 120,00</span>
+                            <span class="text-xs text-[#CBEB09]">✡</span>
                         </div>
                     </div>
                 </div>
                 <div class="inline-block mr-2">
-                    <div class="w-32 h-40 max-w-xs overflow-hidden bg-[#252525]">
-                        <div class="w-full h-full bg-white">
+                    <div class="w-32 h-48 overflow-hidden bg-[#252525]">
+                        <div class="w-full h-32 bg-white">
+                        </div>
+                        <div class="w-full h-16 font-['Nunito'] text-white">
+                            <h1 class="text-xs font-bold truncate">Nike Air Max 270 React</h1>
+                            <span class="text-xs text-[#CBEB09]">€ 120,00</span>
+                            <span class="text-xs text-[#CBEB09]">✡</span>
                         </div>
                     </div>
                 </div>

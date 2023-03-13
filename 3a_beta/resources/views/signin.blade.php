@@ -37,7 +37,7 @@
 
         
         <div class="w-100 my-10 flex justify-center">
-            <div class="w-30 h-10  bg-[#333333] rounded-[15px] px-2 border border-black flex items-center ">
+            <div class="w-30 h-10  bg-[#333333] rounded-[15px] px-2 border border-black flex items-center " onclick='window.location="/sport"'>
                 <p class="text-[#CBEB09] text-[16px] font-family:'Open Sans'   font-[700]">REGISTRATI</p>
             </div>
         </div>

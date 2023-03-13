@@ -73,7 +73,7 @@
             </div>
         </div>
     </div>
-    <div class="flex justify-center pb-4 w-full">
+    <div class="flex justify-center pb-4 w-full" onclick='window.location="/"'>
         <button class="bg-[#252525] rounded-xl text-xs text-[#333333] px-2 py-2 font-bold tracking-wider hover:text-[#FAFF23]">CONFERMA</button>
     </div>
 @endsection

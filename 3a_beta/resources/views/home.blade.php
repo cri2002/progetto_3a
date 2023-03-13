@@ -20,7 +20,7 @@
     </div>
     <div class="flex overflow-x-scroll pb-4 hide-scroll-bar">
         <div class="flex flex-nowrap ml-4">
-            <div class="inline-block mr-2">
+            <div class="inline-block mr-2" onclick='window.location="prodotto"'>
                 <div class="w-32 h-48 max-w-xs overflow-hidden bg-[#252525]">
                     <div class="w-full h-32 bg-white">
                     </div>
@@ -33,7 +33,7 @@
                     </div>
                 </div>
             </div>
-            <div class="inline-block mr-2">
+            <div class="inline-block mr-2" onclick='window.location="prodotto"'>
                 <div class="w-32 h-48 max-w-xs overflow-hidden bg-[#252525]">
                     <div class="w-full h-32 bg-white">
                     </div>
@@ -46,7 +46,7 @@
                     </div>
                 </div>
             </div>
-            <div class="inline-block mr-2">
+            <div class="inline-block mr-2" onclick='window.location="prodotto"'>
                 <div class="w-32 h-48 max-w-xs overflow-hidden bg-[#252525]">
                     <div class="w-full h-32 bg-white">
                     </div>
@@ -67,7 +67,7 @@
     </div>
     <div class="flex overflow-x-scroll pb-4 hide-scroll-bar">
         <div class="flex flex-nowrap ml-4">
-            <div class="inline-block mr-2">
+            <div class="inline-block mr-2" onclick='window.location="prodotto"'>
                 <div class="w-32 h-48 max-w-xs overflow-hidden bg-[#252525]">
                     <div class="w-full h-32 bg-white">
                     </div>
@@ -80,7 +80,7 @@
                     </div>
                 </div>
             </div>
-            <div class="inline-block mr-2">
+            <div class="inline-block mr-2" onclick='window.location="prodotto"'>
                 <div class="w-32 h-48 max-w-xs overflow-hidden bg-[#252525]">
                     <div class="w-full h-32 bg-white">
                     </div>
@@ -93,7 +93,7 @@
                     </div>
                 </div>
             </div>
-            <div class="inline-block mr-2">
+            <div class="inline-block mr-2" onclick='window.location="prodotto"'>
                 <div class="w-32 h-48 max-w-xs overflow-hidden bg-[#252525]">
                     <div class="w-full h-32 bg-white">
                     </div>
@@ -114,7 +114,7 @@
     </div>
     <div class="flex overflow-x-scroll pb-4 hide-scroll-bar">
         <div class="flex flex-nowrap ml-4">
-            <div class="inline-block mr-2">
+            <div class="inline-block mr-2" onclick='window.location="prodotto"'>
                 <div class="w-32 h-48 max-w-xs overflow-hidden bg-[#252525]">
                     <div class="w-full h-32 bg-white">
                     </div>
@@ -127,7 +127,7 @@
                     </div>
                 </div>
             </div>
-            <div class="inline-block mr-2">
+            <div class="inline-block mr-2" onclick='window.location="prodotto"'> 
                 <div class="w-32 h-48 max-w-xs overflow-hidden bg-[#252525]">
                     <div class="w-full h-32 bg-white">
                     </div>
@@ -140,7 +140,7 @@
                     </div>
                 </div>
             </div>
-            <div class="inline-block mr-2">
+            <div class="inline-block mr-2" onclick='window.location="prodotto"'>
                 <div class="w-32 h-48 max-w-xs overflow-hidden bg-[#252525]">
                     <div class="w-full h-32 bg-white">
                     </div>
