@@ -16,7 +16,7 @@
     </div>
 
     <div class="flex justify-left">
-        <h1 class="text-white ml-4 font-['Nunito'] text-bold">Footwear</h1>
+        <h1 class="text-white ml-4 font-['Nunito'] text-bold" onclick='window.location="categoria"'>Footwear</h1>
     </div>
     <div class="flex overflow-x-scroll pb-4 hide-scroll-bar">
         <div class="flex flex-nowrap ml-4">

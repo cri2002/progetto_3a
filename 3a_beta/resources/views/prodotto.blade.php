@@ -4,8 +4,8 @@
 @endsection
 
 @section('content')
-    <div onclick='window.location="/"' class="flex h-10 w-full bg-[#252525] justify-between">
-        <i class="bi bi-arrow-left text-white text-3xl ml-2"></i><div class="bg-[url({{asset('/Asset/img/attaccapanni.svg')}})] w-10 bg-contain bg-no-repeat "></div></div>
+<div  class="flex h-10 w-full bg-[#252525] justify-between">
+<i onclick='window.location="/"' class="bi bi-arrow-left text-white text-3xl ml-2"></i><div class="bg-[url({{asset('/Asset/img/attaccapanni.svg')}})] w-10 bg-contain bg-no-repeat "></div></div>
     <div class="w-full h-3/4 bg-center bg-no-repeat bg-[url({{asset('/Asset/img/nike_jaket.svg')}})]">
     </div>
 
