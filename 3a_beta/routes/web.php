@@ -22,3 +22,7 @@ Route::get('/sport', function () {
 Route::get('/signin', function () {
     return view('signin');
 });
+
+Route::get('/categoria', function (){
+    return view('categoria');
+});
