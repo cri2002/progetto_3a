@@ -11,7 +11,7 @@
         <div class="flex flex-nowrap ml-4">
             <div class="inline-block mr-4">
                 <div class="w-32 h-30 max-w-xs overflow-hidden bg-[#252525] hover:border-4 hover:border-[#CBEB09]">
-                    <div class="w-full h-32 bg-white">
+                    <div class="w-full h-32 bg-[url({{asset('/Asset/img/Calcio.svg')}})]">
                     </div>
                     <div class="w-full h-5 font-['Nunito'] text-[#CBEB09] m-1">
                         <h1 class="text-xs font-bold truncate h-10 text-center tracking-wider leading-5">CALCIO</h1>
@@ -20,7 +20,7 @@
             </div>
             <div class="inline-block mr-4">
                 <div class="w-32 h-30 max-w-xs overflow-hidden bg-[#252525] hover:border-4 hover:border-[#CBEB09]">
-                    <div class="w-full h-32 bg-white">
+                    <div class="w-full h-32 bg-[url({{asset('/Asset/img/Tennis.svg')}})]">
                     </div>
                     <div class="w-full h-5 font-['Nunito'] text-[#CBEB09] m-1">
                         <h1 class="text-xs font-bold truncate h-10 text-center tracking-wider leading-5">TENNIS</h1>
@@ -33,7 +33,7 @@
         <div class="flex flex-nowrap ml-4">
             <div class="inline-block mr-4">
                 <div class="w-32 h-30 max-w-xs overflow-hidden bg-[#252525] hover:border-4 hover:border-[#CBEB09]">
-                    <div class="w-full h-32 bg-white">
+                    <div class="w-full h-32 bg-[url({{asset('/Asset/img/Basket.svg')}})]">
                     </div>
                     <div class="w-full h-5 font-['Nunito'] text-[#CBEB09] m-1">
                         <h1 class="text-xs font-bold truncate h-10 text-center tracking-wider leading-5">BASKET</h1>
@@ -42,7 +42,7 @@
             </div>
             <div class="inline-block mr-4">
                 <div class="w-32 h-30 max-w-xs overflow-hidden bg-[#252525] hover:border-4 hover:border-[#CBEB09]">
-                    <div class="w-full h-32 bg-white">
+                    <div class="w-full h-32 bg-[url({{asset('/Asset/img/Skate.svg')}})]">
                     </div>
                     <div class="w-full h-5 font-['Nunito'] text-[#CBEB09] m-1">
                         <h1 class="text-xs font-bold truncate h-10 text-center tracking-wider leading-5">SKATE</h1>
@@ -55,7 +55,7 @@
         <div class="flex flex-nowrap ml-4">
             <div class="inline-block mr-4">
                 <div class="w-32 h-30 max-w-xs overflow-hidden bg-[#252525] hover:border-4 hover:border-[#CBEB09]">
-                    <div class="w-full h-32 bg-white">
+                    <div class="w-full h-32 bg-[url({{asset('/Asset/img/Nuoto.svg')}})]">
                     </div>
                     <div class="w-full h-5 font-['Nunito'] text-[#CBEB09] m-1">
                         <h1 class="text-xs font-bold truncate h-10 text-center tracking-wider leading-5">NUOTO</h1>
@@ -64,7 +64,7 @@
             </div>
             <div class="inline-block mr-4">
                 <div class="w-32 h-30 max-w-xs overflow-hidden bg-[#252525] hover:border-4 hover:border-[#CBEB09]">
-                    <div class="w-full h-32 bg-white">
+                    <div class="w-full h-32 bg-[url({{asset('/Asset/img/Corsa.svg')}})]">
                     </div>
                     <div class="w-full h-5 font-['Nunito'] text-[#CBEB09] m-1">
                         <h1 class="text-xs font-bold truncate h-10 text-center tracking-wider leading-5">CORSA</h1>
