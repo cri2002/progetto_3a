@@ -22,7 +22,7 @@
         <div class="flex flex-nowrap ml-4">
             <div class="inline-block mr-2" onclick='window.location="prodotto"'>
                 <div class="w-32 h-48 max-w-xs overflow-hidden bg-[#252525]">
-                    <div class="w-full h-32 bg-white">
+                    <div class="w-full h-32 bg-[url({{asset('/Asset/img/h_1.svg')}})]">
                     </div>
                     <div class="w-full h-16 font-['Nunito'] text-white m-1">
                         <h1 class="text-[16px] font-bold truncate h-8">Nike Air Max 270 React</h1>
@@ -36,7 +36,7 @@
             </div>
             <div class="inline-block mr-2" onclick='window.location="prodotto"'>
                 <div class="w-32 h-48 max-w-xs overflow-hidden bg-[#252525]">
-                    <div class="w-full h-32 bg-white">
+                    <div class="w-full h-32 bg-[url({{asset('/Asset/img/h_2.svg')}})]">
                     </div>
                     <div class="w-full h-16 font-['Nunito'] text-white m-1">
                     <h1 class="text-[16px] font-bold truncate h-8">Nike Air Max 270 React</h1>
@@ -50,7 +50,7 @@
             </div>
             <div class="inline-block mr-2" onclick='window.location="prodotto"'>
                 <div class="w-32 h-48 max-w-xs overflow-hidden bg-[#252525]">
-                    <div class="w-full h-32 bg-white">
+                    <div class="w-full h-32 bg-[url({{asset('/Asset/img/h_3.svg')}})]">
                     </div>
                     <div class="w-full h-16 font-['Nunito'] text-white m-1">
                         <h1 class="text-[16px] font-bold truncate h-8">Nike Air Max 270 React</h1>
@@ -72,7 +72,7 @@
         <div class="flex flex-nowrap ml-4">
             <div class="inline-block mr-2" onclick='window.location="prodotto"'>
                 <div class="w-32 h-48 max-w-xs overflow-hidden bg-[#252525]">
-                    <div class="w-full h-32 bg-white">
+                    <div class="w-full h-32 bg-[url({{asset('/Asset/img/h_4.svg')}})]">
                     </div>
                     <div class="w-full h-16 font-['Nunito'] text-white m-1">
                         <h1 class="text-[16px] font-bold truncate h-8">Nike Air Max 270 React</h1>
@@ -86,7 +86,7 @@
             </div>
             <div class="inline-block mr-2" onclick='window.location="prodotto"'>
                 <div class="w-32 h-48 max-w-xs overflow-hidden bg-[#252525]">
-                    <div class="w-full h-32 bg-white">
+                    <div class="w-full h-32 bg-[url({{asset('/Asset/img/h_5.svg')}})]">
                     </div>
                     <div class="w-full h-16 font-['Nunito'] text-white m-1">
                         <h1 class="text-[16px] font-bold truncate h-8">Nike Air Max 270 React</h1>
@@ -100,7 +100,7 @@
             </div>
             <div class="inline-block mr-2" onclick='window.location="prodotto"'>
                 <div class="w-32 h-48 max-w-xs overflow-hidden bg-[#252525]">
-                    <div class="w-full h-32 bg-white">
+                    <div class="w-full h-32 bg-[url({{asset('/Asset/img/h_4.svg')}})]">
                     </div>
                     <div class="w-full h-16 font-['Nunito'] text-white m-1">
                         <h1 class="text-[16px] font-bold truncate h-8">Nike Air Max 270 React</h1>
@@ -122,7 +122,7 @@
         <div class="flex flex-nowrap ml-4">
             <div class="inline-block mr-2" onclick='window.location="prodotto"'>
                 <div class="w-32 h-48 max-w-xs overflow-hidden bg-[#252525]">
-                    <div class="w-full h-32 bg-white">
+                    <div class="w-full h-32 bg-[url({{asset('/Asset/img/h_7.svg')}})]">
                     </div>
                     <div class="w-full h-16 font-['Nunito'] text-white m-1">
                         <h1 class="text-[16px] font-bold truncate h-8">Nike Air Max 270 React</h1>
@@ -136,7 +136,7 @@
             </div>
             <div class="inline-block mr-2" onclick='window.location="prodotto"'> 
                 <div class="w-32 h-48 max-w-xs overflow-hidden bg-[#252525]">
-                    <div class="w-full h-32 bg-white">
+                    <div class="w-full h-32 bg-[url({{asset('/Asset/img/h_8.svg')}})]">
                     </div>
                     <div class="w-full h-16 font-['Nunito'] text-white m-1">
                         <h1 class="text-[16px] font-bold truncate h-8">Nike Air Max 270 React</h1>
@@ -150,7 +150,7 @@
             </div>
             <div class="inline-block mr-2" onclick='window.location="prodotto"'>
                 <div class="w-32 h-48 max-w-xs overflow-hidden bg-[#252525]">
-                    <div class="w-full h-32 bg-white">
+                    <div class="w-full h-32 bg-[url({{asset('/Asset/img/h_9.svg')}})]">
                     </div>
                     <div class="w-full h-16 font-['Nunito'] text-white m-1">
                         <h1 class="text-[16px] font-bold truncate h-8">Nike Air Max 270 React</h1>
