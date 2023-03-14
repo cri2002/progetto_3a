@@ -4,8 +4,9 @@
 @endsection
 
 @section('content')
-    <div onclick='window.location="/"' class="flex h-10 w-full bg-[#252525] justify-between"><i class="bi bi-arrow-left text-white text-3xl ml-2"></i><i class="bi bi-cart mr-3 text-white text-3xl"></i></div>
-    <div class="w-full h-3/4 bg-white">
+    <div onclick='window.location="/"' class="flex h-10 w-full bg-[#252525] justify-between">
+        <i class="bi bi-arrow-left text-white text-3xl ml-2"></i><div class="bg-[url({{asset('/Asset/img/attaccapanni.svg')}})] w-10 bg-contain bg-no-repeat "></div></div>
+    <div class="w-full h-3/4 bg-[url({{asset('/Asset/img/nike_jaket.svg')}})]">
     </div>
 
         <div class="flex ml-4">
@@ -36,25 +37,16 @@
 
     <div class="flex overflow-x-scroll pb-4 mb-4 hide-scroll-bar">
         <div class="flex flex-nowrap ml-4">
-            <div class="inline-block mr-2">
-                <div class="w-32 h-48 overflow-hidden bg-[#252525]">
-                    <div class="w-full h-32 bg-white">
-                    </div>
-                    
+            <div class="inline-block mr-2 border-2 border-[#CBEB09] ">
+                <div class="w-24 h-32 overflow-hidden bg-[url({{asset('/Asset/img/nike_jaket.svg')}})] ">
                 </div>
             </div>
             <div class="inline-block mr-2">
-                <div class="w-32 h-48 overflow-hidden bg-[#252525]">
-                    <div class="w-full h-32 bg-white">
-                    </div>
-                    
+                <div class="w-24 h-32 overflow-hidden bg-white">
                 </div>
             </div>
             <div class="inline-block mr-2">
-                <div class="w-32 h-48 overflow-hidden bg-[#252525]">
-                    <div class="w-full h-32 bg-white">
-                    </div>
-                    
+                <div class="w-24 h-32 overflow-hidden bg-white">
                 </div>
             </div>
         </div>
@@ -84,7 +76,7 @@
             <div class="flex flex-nowrap">
                 <div class="inline-block mr-2">
                     <div class="w-32 h-48 overflow-hidden bg-[#252525]">
-                        <div class="w-full h-32 bg-white">
+                        <div class="w-full h-32 bg-[url({{asset('/Asset/img/red_jaket.svg')}})]  bg-no-repeat">
                         </div>
                         <div class="w-full h-16 font-['Nunito'] text-white">
                             <h1 class="text-[16px] font-bold truncate h-8">Nike Air Max 270 React</h1>
@@ -98,7 +90,7 @@
                 </div>
                 <div class="inline-block mr-2">
                     <div class="w-32 h-48 overflow-hidden bg-[#252525]">
-                        <div class="w-full h-32 bg-white">
+                        <div class="w-full h-32 bg-[url({{asset('/Asset/img/blue_jaket.svg')}})]  bg-no-repeat">
                         </div>
                         <div class="w-full h-16 font-['Nunito'] text-white">
                             <h1 class="text-[16px] font-bold truncate h-8">Nike Air Max 270 React</h1>
@@ -112,7 +104,7 @@
                 </div>
                 <div class="inline-block mr-2">
                     <div class="w-32 h-48 overflow-hidden bg-[#252525]">
-                        <div class="w-full h-32 bg-white">
+                        <div class="w-full h-32 bg-[url({{asset('/Asset/img/psg_jaket.svg')}})]  bg-no-repeat">
                         </div>
                         <div class="w-full h-16 font-['Nunito'] text-white">
                             <h1 class="text-[16px] font-bold truncate h-8">Nike Air Max 270 React</h1>
